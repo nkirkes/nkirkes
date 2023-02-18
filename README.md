@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @nkirkes
-- 👀 I’m interested in people leadership and technical innovation. 
-- 🤓 My developer background is largely within the .NET ecosystem, backend development, and system design/architecture.
-- 🌱 I’m currently studying general software architecture of large scale systems along with C# 10 and .NET 6.
-- 📫 You can find me on <a href="https://www.linkedin.com/in/nickkirkes">LinkedIn</a>.
+
